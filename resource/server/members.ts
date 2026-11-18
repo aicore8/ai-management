@@ -5,8 +5,8 @@ import {
   notify,
   onClientCallback,
   online,
-} from "@aifivem/lib/server";
-import { fail, readId, readInt } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, readId, readInt } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/boss";
 import { bossAt, core, gradeOf, pointArg, reaches } from "./boss";

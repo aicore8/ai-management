@@ -1,4 +1,4 @@
-import { registerExport } from "@aifivem/lib/client";
+import { registerExport } from "@aicore8/lib/client";
 import { ownTarget, type GroupType } from "common/boss";
 import { openBoss } from "./menu";
 

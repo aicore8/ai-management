@@ -4,8 +4,8 @@ import {
   menu,
   nearestPlayer,
   notify,
-} from "@aifivem/lib/client";
-import { groupDigits, record } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { groupDigits, record } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/boss";
 

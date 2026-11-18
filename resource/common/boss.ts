@@ -4,7 +4,7 @@ import {
   record,
   str,
   type AccessRule,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-management's contracts and panel content. No natives. */
 

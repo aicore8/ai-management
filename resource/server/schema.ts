@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 
 /** ai-management's panel: where each job's or gang's boss manages it. */
 export const schema: PanelSchema = {

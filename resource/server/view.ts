@@ -1,5 +1,5 @@
-import { onClientCallback, online } from "@aifivem/lib/server";
-import { fail, oneArg } from "@aifivem/lib/shared";
+import { onClientCallback, online } from "@aicore8/lib/server";
+import { fail, oneArg } from "@aicore8/lib/shared";
 import { EVENTS, type BossView } from "common/boss";
 import { bossAt, core, gradeOf, pointArg } from "./boss";
 
